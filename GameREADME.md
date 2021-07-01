@@ -1,0 +1,1 @@
+Delphi is a game based on the qualitative forecasting method known as the Delphi method used to forecast COVID-19 infections in South Africa on a future date. Forecasts are based on the consensus of experts.
